@@ -1,0 +1,4060 @@
+{
+"Sheet1":[
+ {
+  "type;crs;;features;;;;;;;;;": ";type;properties;type;properties;;;;;;;geometry;"
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;name;;ID;county;state;lon;lat;max_demand;selling_price;type;coordinates"
+ },
+ {
+  "type;crs;;features;;;;;;;;;": "FeatureCollection;name;urn:ogc:def:crs:EPSG::4269;Feature;36093;Schenectady County;New York;-74",
+  "Column2": "05278291;42",
+  "Column3": "81668777;641;239;Polygon;-74",
+  "Column4": 263314
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 796534
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 83883
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 897354
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 9298
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 955868
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 955458
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 897306
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 904386
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 911163
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 895938
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 851076
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 809369
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 778869
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 832618
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 772263
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 180274
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 729979
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 272295
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 71427
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 263314
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 796534
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;36051;Livingston County;New York;-77",
+  "Column2": "77966158;42",
+  "Column3": "72596275;247;234;Polygon;-78",
+  "Column4": 60617
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 532814
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 956334
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 667322
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 954964
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 862754
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 95553
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 905861
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 909832
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 987762
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 730957
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 988372
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 759052
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 940462
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 580377
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 943963
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 61167
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 763169
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 598815
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 671965
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 486875
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 670279
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 490889
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 577288
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 659917
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 580409
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 661315
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 535067
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 720617
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 535066
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 722964
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 471216
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 840231
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 474576
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 840694
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 517771
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 38261
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 521522
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 60617
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 532814
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;36037;Genesee County;New York;-78",
+  "Column2": "198036;43",
+  "Column3": "00085961;231;246;Polygon;-78",
+  "Column4": 465505
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 128619
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 27226
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 13206
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 99729
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 132981
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 905934
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 133561
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 951044
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 39544
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 909832
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 987762
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 95553
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 905861
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 954964
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 862754
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 74171
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 870188
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 464381
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 867461
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 464449
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 88703
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 465505
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 128619
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;36009;Cattaraugus County;New York;-78",
+  "Column2": "67918784;42",
+  "Column3": "24784223;306;245;Polygon;-79",
+  "Column4": 60777
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 537853
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 991702
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 529249
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 919766
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 442386
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 695937
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 47194
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 46394
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 536332
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 450447
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 519209
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 308839
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 521217
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 30814434
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 99907118
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 59665
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 999877
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 91889836
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 9991031
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 983065
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 998949
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 6125819
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 99883812
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 60777
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 537853
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;42117;Tioga County;Pennsylvania;-77",
+  "Column2": "25443825;41",
+  "Column3": "77255835;165;233;Polygon;-77",
+  "Column4": 61002011
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 99914985
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 7635
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 848
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 96579151
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 78349
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 92692532
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 72357
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 874714
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 596919
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 960481
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 551517
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 599278
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 542271
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 61002011
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 99914985
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;42119;Union County;Pennsylvania;-77",
+  "Column2": "06008532;40",
+  "Column3": "96154575;171;247;Polygon;-77",
+  "Column4": 36418
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 846937
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 279236
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 90971
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 14416
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 44338
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 144111
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 6884
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 977939
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 87883
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 960229
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 148801
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 896114
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 13907
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 856424
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 47412
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 873964
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 946752
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 800242
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 881994
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 941788
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 88806
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 356628
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 807334
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 36418
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 846937
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;42021;Cambria County;Pennsylvania;-78",
+  "Column2": "71725946;40",
+  "Column3": "49401998;526;235;Polygon;-78",
+  "Column4": 998614
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 355878
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 973814
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 395421
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 816853
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 703458
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 801726
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 724618
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 402899
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 725239
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 348668
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 723443
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 439584
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 645034
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 441208
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 597239
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 539819
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 506293
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 561466
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 36967
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 620383
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 327025
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 651743
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 281524
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 658305
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 243235
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 884669
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 244575
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 933396
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 284816
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 56053
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 284861
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 998614
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 355878
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;42055;Franklin County;Pennsylvania;-77",
+  "Column2": "72136174;39",
+  "Column3": "92914001;628;244;Polygon;-78",
+  "Column4": 989707
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 72246619
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 27
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 826599
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 920952
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 45
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 864489
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 61568
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 737933
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 237079
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 70303
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 263576
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 671761
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 289825
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 602717
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 2282
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 614665
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 198549
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 532481
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 48749
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 454109
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 972432
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 471085
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 944077
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 4591385
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 72022918
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 469145
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 720229
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 469274
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 720229
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 768644
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 721538
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 75861
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 722448
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 989707
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 72246619
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;42085;Mercer County;Pennsylvania;-80",
+  "Column2": "25817358;41",
+  "Column3": "30255464;437;234;Polygon;-80",
+  "Column4": 5191972
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 1332185
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-80",
+  "Column2": 518893
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 232556
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-80",
+  "Column2": 51916527
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 48910968
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-80",
+  "Column2": 125369
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 480396
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 999779
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 490049
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 999779
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 171861
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-80",
+  "Column2": 82007
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 85033
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-80",
+  "Column2": 98294
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 71054
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-80",
+  "Column2": 147303
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 113917
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-80",
+  "Column2": 257933
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 128165
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-80",
+  "Column2": 51922209
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 12509357
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-80",
+  "Column2": 5191972
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 1332185
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;36005;Bronx County;New York;-73",
+  "Column2": "85120679;40",
+  "Column3": "84976909;5520;241;Polygon;-73",
+  "Column4": 92048439
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 91857425
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 859393
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 900381
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 833595
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 892706
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 74806
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 871721
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 778958
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 811713
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 827583
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 803936
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 878307
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 785357
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 912456
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 796096
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 913624
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 796786
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 923904
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 850488
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 920005
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 856679
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 910851
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 866528
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 907905
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 872678
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 907105
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 876277
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 91031
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 879047
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 93489223
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 88264986
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 92048439
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 91857425
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;09140;Naugatuck Valley Planning Region;Connecticut;-73",
+  "Column2": "08787775;41",
+  "Column3": "51578991;1817;237;Polygon;-73",
+  "Column4": 318889
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 505189
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 252265
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 512134
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 261446
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 664641
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 142031
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 672294
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 99855
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 712498
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 961962
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 715591
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 89827
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 723177
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 883388
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 649468
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 938501
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 644311
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 94635
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 556797
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 853147
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 546412
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 850299
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 515731
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 886445
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 448272
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 952392
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 464589
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 25751
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 459596
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 40707
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 313891
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 86752
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 254596
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 146882
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 255367
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 155573
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 269096
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 2048
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 29936
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 183269
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 391711
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 207688
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 420544
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 29776
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 448276
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 318889
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 505189
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;42019;Butler County;Pennsylvania;-79",
+  "Column2": "9133255;40",
+  "Column3": "9120591;790;239;Polygon;-80",
+  "Column4": 166472
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 928
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-80",
+  "Column2": 98294
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 71054
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-80",
+  "Column2": 82007
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 85033
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 999779
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 171861
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 905353
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 172144
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 694984
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 172865
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 689332
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 169471
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 69293
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 669744
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 692878
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 669611
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-80",
+  "Column2": 71434
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 674935
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-80",
+  "Column2": 148497
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 673769
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-80",
+  "Column2": 15853
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 855096
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-80",
+  "Column2": 166472
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 928
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;36013;Chautauqua County;New York;-79",
+  "Column2": "36691595;42",
+  "Column3": "22769183;505;239;Polygon;-79",
+  "Column4": 761951
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 26986
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 627484
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 324686
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 453533
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 411157
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 381943
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 466491
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 283364
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 511228
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 193232
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 545881
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 138569
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 564462
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 1359444
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 56917871
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 107778
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 569965
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 60777
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 537853
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 6125819
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 99883812
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 472472
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 998255
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 61083577
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 9985199
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 761313
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 998808
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 762122
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 131246
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 761951
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 26986
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;34033;Salem County;New Jersey;-75",
+  "Column2": "34771146;39",
+  "Column3": "58521993;261;249;Polygon;-75",
+  "Column4": 559446
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 629812
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 535144
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 647212
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 509742
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 686113
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 47764
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 715013
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 459439
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 765813
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 415062
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 801919
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 41049248
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 80467223
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 429061
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 78382
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 32672
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 690372
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 199793
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 666996
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 61854
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 568746
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 80309
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 460648
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 238434
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 559039
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 368213
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 456479
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 41710708
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 38891069
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 442393
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 402291
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 465212
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 43893
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 536431
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 460559
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 528088
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 498114
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 527676
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 535278
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 512732
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 578
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 543965
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 596
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 559446
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;39",
+  "Column2": 629812
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;36001;Albany County;New York;-73",
+  "Column2": "97377717;42",
+  "Column3": "60113154;1264;245;Polygon;-74",
+  "Column4": 263185
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 423213
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 241572
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 550802
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 169725
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 667426
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 180274
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 729979
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 832618
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 772263
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 809369
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 778869
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 726663
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 822577
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 676762
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 783277
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 702463
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 699978
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 759565
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 614179
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 752165
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 56658
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 783721
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 464231
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 254303
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 408207
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 263185
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 423213
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;09130;Lower Connecticut River Valley Planning Region;Connecticut;-72",
+  "Column2": "50519396;41",
+  "Column3": "44841106;707;242;Polygon;-72",
+  "Column4": 752181
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 578894
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 713897
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 627705
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 627836
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 640199
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 54423
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 642696
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 505431
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 646999
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 46673
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 583899
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 430767
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 524567
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 323394
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 53425
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 276636
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 440449
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 24835366
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 29587168
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 293044
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 280044
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 348643
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 277446
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 386629
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 261798
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 40593
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 278398
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 472539
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 270103
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 5345649
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 25382427
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 614407
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 329966
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 653672
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 438125
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 678739
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 433797
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 746141
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 423297
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 74478
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 498183
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 748878
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 544279
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-72",
+  "Column2": 752181
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 578894
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;42015;Bradford County;Pennsylvania;-76",
+  "Column2": "51572401;41",
+  "Column3": "78869327;240;244;Polygon;-76",
+  "Column4": 92692532
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 72357
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 558118
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 155
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 55769872
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 14967
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 462155
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 998934
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 14551899
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 99886646
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 115172
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 651825
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 197998
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 647823
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 220073
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 541278
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 813731
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 590034
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 874714
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 596919
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 92692532
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 72357
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;34023;Middlesex County;New Jersey;-74",
+  "Column2": "41013139;40",
+  "Column3": "43917175;3446;249;Polygon;-74",
+  "Column4": 62024
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 373749
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 584987
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 418176
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 489491
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 474452
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 459863
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 491046
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 523917
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 56967
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 463291
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 599187
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 39472
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 600989
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 302921
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 608683
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 2036686
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 59320539
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 203688
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 592691
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 216839
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 558618
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 249211
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 545064
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 260611
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 502436
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 261889
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 464706
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 22465247
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 44866249
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 260402
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 396666
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 262074
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 395373
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 393384
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 279637
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 484962
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 253325
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 48203
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 273915
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 573397
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 3009
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 624473
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 328838
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 62024
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 373749
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;42113;Sullivan County;Pennsylvania;-76",
+  "Column2": "5124473;41",
+  "Column3": "44634771;24;239;Polygon;-76",
+  "Column4": 813731
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 590034
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 220073
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 541278
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 228131
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 511137
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 282799
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 377244
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 310261
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 310198
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 407934
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 308418
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 447597
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 275629
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 592532
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 304332
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 749497
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 405572
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 772397
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 471675
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 813731
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 590034
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;42013;Blair County;Pennsylvania;-78",
+  "Column2": "35015699;40",
+  "Column3": "48217971;485;245;Polygon;-78",
+  "Column4": 561466
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 36967
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 539819
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 506293
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 441208
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 597239
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 439584
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 645034
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 348668
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 723443
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 360619
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 733181
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 145661
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 742486
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 116521
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 739127
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 22197
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 674539
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 166371
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 617948
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 197083
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 558444
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 130081
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 48199
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 257305
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 297883
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 288764
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 242107
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 434288
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 302301
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 447895
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 244395
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 620383
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 327025
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 561466
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 36967
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;42123;Warren County;Pennsylvania;-79",
+  "Column2": "2740948;41",
+  "Column3": "81366284;152;230;Polygon;-79",
+  "Column4": 612071
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 850328
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 61083577
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 9985199
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 472472
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 998255
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 6125819
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 99883812
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 983065
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 998949
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 91889836
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 9991031
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 915642
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 840896
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 948612
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 830481
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 956138
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 623334
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 51207
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 624559
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 613147
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 623863
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-79",
+  "Column2": 612071
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 850328
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;34041;Warren County;New Jersey;-74",
+  "Column2": "99710549;40",
+  "Column3": "85620925;444;241;Polygon;-75",
+  "Column4": 192612
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 715874
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 177477
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 764225
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 108505
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 791094
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 90962
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 849187
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 65438
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 885682
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 9772
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 926679
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 12325394
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 96530553
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 133086
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 980179
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 70532
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 1862
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 15271
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 61215
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 992386
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 9302825
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 98304207
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 10601756
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 962665
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 90527
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 769425
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 910934
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 850513
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 803956
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 889819
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 787729
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 968927
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 710392
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 18819988
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 59261337
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 1892364
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 60905696
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 191059
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 637971
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 192612
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 715874
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;36007;Broome County;New York;-75",
+  "Column2": "81671813;42",
+  "Column3": "15905312;789;247;Polygon;-76",
+  "Column4": 130181
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 410337
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 21374
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 409008
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 86402
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 415702
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 836502
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 244283
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 638299
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 248686
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 63711
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 195628
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 418421
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 195032
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 402239
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 10699
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 35993108
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 99368936
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 477144
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 999407
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 48314022
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 99939818
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 870677
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 998828
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 10584
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 998858
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 116225
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 18561
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 81214
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 264711
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 130181
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 410337
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;36053;Madison County;New York;-75",
+  "Column2": "67019431;42",
+  "Column3": "91472859;269;237;Polygon;-75",
+  "Column4": 993394
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 183376
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 932778
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 176583
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 884275
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 155562
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 723929
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 162596
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 552774
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 37554
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 542803
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 931774
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 444173
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 933089
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 437167
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 863319
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 247963
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 871604
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 251416
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 784565
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 295877
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 744106
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 428668
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 745421
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 889832
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 723844
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 896079
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 790964
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 917189
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 85779
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 975588
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 91278
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 950057
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 134853
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-75",
+  "Column2": 993394
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 183376
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;09190;Western Connecticut Planning Region;Connecticut;-73",
+  "Column2": "44755509;41",
+  "Column3": "32147445;2495;234;Polygon;-73",
+  "Column4": 727775
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 100696
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 482709
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 21276
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 550961
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 295422
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 54413529
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 36648509
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 54314735
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 37677067
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 536969
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 441094
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 52967771
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 52716102
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 52183408
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 61974803
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 520017
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 641197
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 51791879
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 66672053
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 382124
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 683327
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 318889
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 505189
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 29776
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 448276
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 207688
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 420544
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 183269
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 391711
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 202515
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 371926
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 325287
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 322474
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 368811
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 274975
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 29660137
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 11373586
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 29721439
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 11366854
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 33066
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 109996
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 372296
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 10402
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 354231
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 85639
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 387227
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 58247
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 422165
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 47562
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 468239
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 51347
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 516903
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 38738
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 561968
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 16797
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 595699
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 15995
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 657336
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 985171
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 659362
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 4034
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 659533
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 17857
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 70602852
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 7429794
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-73",
+  "Column2": 727775
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 100696
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;36117;Wayne County;New York;-77",
+  "Column2": "02871634;43",
+  "Column3": "1558178;365;232;Polygon;-77",
+  "Column4": 376052
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 27403376
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 341092
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 280661
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 264177
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 277363
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 130429
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 285635
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 999691
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 271456
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 952174
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 270692
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 841675
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 305399
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 769025
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 318452
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 72200257
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 3375802
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 702324
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 80159
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 713806
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 24035
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 963926
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 13157
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 133397
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 12463
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 134307
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 39887
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 371478
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 34696
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 376052
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 27403376
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;34031;Passaic County;New Jersey;-74",
+  "Column2": "29827459;41",
+  "Column3": "03516421;2056;239;Polygon;-74",
+  "Column4": 503212
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 85873
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 36703826
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 20421147
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 301994
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 172594
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 23449244
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 14289155
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 234473
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 142883
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 21161764
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 13298136
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 248954
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 63615
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 270658
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 21033
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 248532
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 992094
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 191798
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 978564
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 170275
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 983904
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 132337
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 92243
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 106786
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 859299
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 130016
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 819938
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 196999
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 859464
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 271975
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 897321
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 266691
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 907726
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 282033
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 969171
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 300029
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 3115
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 447017
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 54429
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 497358
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 34112
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 503212
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 85873
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;36057;Montgomery County;New York;-74",
+  "Column2": "44087745;42",
+  "Column3": "90208917;199;249;Polygon;-74",
+  "Column4": 743805
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 30741
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 759895
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 47423
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 542367
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 98553
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 97467
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 982934
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 9298
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 955868
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 83883
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 897354
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 263314
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 796534
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 454911
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 772979
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 648298
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 829558
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 763303
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 863237
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 743805
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 30741
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;36011;Cayuga County;New York;-76",
+  "Column2": "55731592;42",
+  "Column3": "91261714;300;241;Polygon;-76",
+  "Column4": 73674
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 970286
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 713806
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 24035
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 702324
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 80159
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 72200257
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 3375802
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 684856
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 352691
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 630774
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 413356
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 61721373
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 42017555
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 605012
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 25357
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 479224
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 227519
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 491941
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;43",
+  "Column2": 4964
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 450738
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 84576
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 356974
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 84945
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 274673
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 771257
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 265584
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 623588
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 4584
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 618615
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 666543
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 623457
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 731636
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 72074
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-76",
+  "Column2": 73674
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;42",
+  "Column2": 970286
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;42105;Potter County;Pennsylvania;-77",
+  "Column2": "89572602;41",
+  "Column3": "74464524;65;239;Polygon;-78",
+  "Column4": 2063791
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 99908872
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 31177
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 999415
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 83203
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 998524
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 74993222
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 99875544
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 61002011
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 99914985
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 599278
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 542271
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 598129
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 478576
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-77",
+  "Column2": 989194
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 474822
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 50442
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 475462
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 20364
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 617599
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-78",
+  "Column2": 2063791
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;41",
+  "Column2": 99908872
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;Feature;34013;Essex County;New Jersey;-74",
+  "Column2": "24530454;40",
+  "Column3": "7867009;3398;232;Polygon;-74",
+  "Column4": 326114
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 908605
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 271975
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;40",
+  "Column2": 897321
+ },
+ {
+  "type;crs;;features;;;;;;;;;": ";;;;;;;;;;;;-74",
+  "Column2": 196999
+ }
+]
+}
